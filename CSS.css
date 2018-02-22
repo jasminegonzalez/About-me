@@ -1,0 +1,40 @@
+html {
+background-image:url("https://rajdolan.files.wordpress.com/2016/08/wp-1470692417170.gif");
+background-size: cover
+}
+
+body {
+    color: #B0B09A;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline;
+    float: left;
+    background-color: #B0B09A;
+}
+
+a {
+    display: block;
+    padding:8px;
+}
+ul {
+    border: 1px solid #B0B09A;
+    background-color: #B0B09A;
+    display: flex; 
+    justify-content: space-around;
+
+}
+
+li a {
+    color: #C0FEFF;
+}
+li {
+    border-right: 2px dotted #C0FEFF;
+    float: left;
+}
+
